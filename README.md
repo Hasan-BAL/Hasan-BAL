@@ -21,13 +21,3 @@ Kodun temeline inmeyi, algoritmalarla uğraşmayı ve oyun mekanikleri geliştir
 </p>
 
 ---
-
-### 📊 GitHub Aktivitelerim
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-BAL&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-BAL&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
-</p>
